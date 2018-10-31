@@ -1,6 +1,6 @@
 {
   "name": "cz-aop-changelog",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Commitizen rules about aop for standardized commit msg",
   "main": "index.js",
   "scripts": {
